@@ -1,0 +1,39 @@
+input[type="text"]  {
+  width: 700px;
+  height: 20px;
+
+}
+input[type="submit"]  {
+  background-color: blue;
+  color: white;
+  width: 100px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  height: 300px;
+}
+th {
+  font-size: 24px;
+
+}
+td {
+  font-size: 16px;
+
+}
+
+a {
+  font-size: 20px;
+  padding : 10px;
+  margin: 20px;
+}
+
+.link{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
